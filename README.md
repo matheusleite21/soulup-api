@@ -14,8 +14,8 @@ mesmo banco Oracle usado em Building Relational Database e no sistema em Python.
 
 ## Links
 
-- **API publicada (Render):** _preencher após o deploy_
-- **Documentação interativa (Swagger):** `<URL da API>/swagger-ui.html`
+- **API publicada (Render):** <https://soulup-api-k9nq.onrender.com>
+- **Documentação interativa (Swagger):** <https://soulup-api-k9nq.onrender.com/swagger-ui.html>
 - **Front-end (Vercel):** _preencher após o deploy do front_
 
 ## Tecnologias
