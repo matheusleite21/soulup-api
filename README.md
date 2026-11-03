@@ -16,7 +16,8 @@ mesmo banco Oracle usado em Building Relational Database e no sistema em Python.
 
 - **API publicada (Render):** <https://soulup-api-k9nq.onrender.com>
 - **Documentação interativa (Swagger):** <https://soulup-api-k9nq.onrender.com/swagger-ui.html>
-- **Front-end (Vercel):** _preencher após o deploy do front_
+- **Documentação (PDF):** [docs/SoulUp_Sprint4_Java_Documentacao.pdf](docs/SoulUp_Sprint4_Java_Documentacao.pdf)
+- **Repositório do front-end:** <https://github.com/matheusruiz-07/Challenge-1TDSPO>
 
 ## Tecnologias
 
